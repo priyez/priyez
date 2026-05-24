@@ -27,8 +27,8 @@ I’m a full-stack software engineer passionate about building scalable digital 
 - Real-time collaboration systems
 
 ## 📫 Connect With Me
-- Portfolio: [sopiriye.xyz](sopiriye.xyz)
-- Linkedin: [Linkedin](https://www.linkedin.com/in/sopiriye-jamabo-14b314151)
+- Portfolio: [sopiriye.xyz](https://sopiriye.xyz)
+- LinkedIn: [Sopiriye Jamabo](https://www.linkedin.com/in/sopiriye-jamabo-14b314151)
 
 ## ⚡ Fun Fact
 I enjoy turning random ideas into working products — sometimes starting with just a late-night thought and a cup of garri.
