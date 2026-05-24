@@ -12,12 +12,13 @@ I’m a full-stack software engineer passionate about building scalable digital 
 - Open source projects
 - etc
 
-## 🛠️ Some Things I Build
-- Developer-focused SDKs & tooling
-- Collaborative real-time platforms
-- Scalable frontend systems
-- Backend APIs & infrastructure
-- AI-powered workflows and products
+## 🛠️ Featured Projects
+
+- [SignalHog](https://signalhog-web.vercel.app) — Real-time communication and signaling platform.
+
+- [SnapForge](https://snapforge-dashboard.vercel.app) — Dashboard and tooling platform for managing workflows and automation.
+
+- [Wishly](https://wishly.fun) — Fun social platform for sharing wishes, thoughts, and interactions.
 
 ## 🌱 Currently Exploring
 - System design & scalability
