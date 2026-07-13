@@ -31,4 +31,4 @@ I’m a full-stack software engineer passionate about building scalable digital 
 - LinkedIn: [Sopiriye Jamabo](https://www.linkedin.com/in/sopiriye-jamabo-14b314151)
 
 ## ⚡ Fun Fact
-I enjoy turning random ideas into working products — sometimes starting with just a late-night thought and a cup of garri.
+I enjoy turning random ideas into working products — sometimes starting with just a late-night thought and a cup of cofee.
